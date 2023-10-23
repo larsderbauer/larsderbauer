@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larsderbauer
-- 👀 I’m interested in airplanes, art and technological nevelties
+- 👀 I’m interested in airplanes, art and technological novelties
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
